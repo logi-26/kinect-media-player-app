@@ -1,0 +1,66 @@
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb

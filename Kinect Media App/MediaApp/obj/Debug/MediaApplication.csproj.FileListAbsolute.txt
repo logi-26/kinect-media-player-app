@@ -1,0 +1,96 @@
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\MediaApplication.pdb
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication_MarkupCompile.cache
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication_MarkupCompile.lref
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication.g.resources
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication.Properties.Resources.resources
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication.csproj.GenerateResource.Cache
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\obj\Debug\MediaApplication.pdb
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication.pdb
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\MediaApplication.pdb
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\Common\StandardStyles.baml
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\App.baml
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MainWindow.g.cs
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\App.g.cs
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication_MarkupCompile.cache
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication_MarkupCompile.lref
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MainWindow.baml
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication.g.resources
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication.Properties.Resources.resources
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\obj\Debug\MediaApplication.csproj.GenerateResource.Cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication.pdb
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\MediaApplication.pdb
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\Common\StandardStyles.baml
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\App.baml
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MainWindow.g.cs
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\App.g.cs
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication_MarkupCompile.cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication_MarkupCompile.lref
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MainWindow.baml
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication.g.resources
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication.Properties.Resources.resources
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\obj\Debug\MediaApplication.csproj.GenerateResource.Cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\MediaApplication.pdb
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\AnyCPU.Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\Common\StandardStyles.baml
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\App.baml
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MainWindow.g.cs
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\App.g.cs
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication_MarkupCompile.cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication_MarkupCompile.lref
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MainWindow.baml
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication.g.resources
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication.Properties.Resources.resources
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication.csproj.GenerateResource.Cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication.exe
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\obj\Debug\MediaApplication.pdb

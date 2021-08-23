@@ -1,0 +1,77 @@
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Documents\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 1\Coursework 1 Portfolio Exercises\Week 3\Kinect Task 3\.Debug\KinectInteraction180_32.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 1\Coursework 1 Portfolio Exercises\Week 3\Kinect Task 3\.Debug\KinectInteraction180_64.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 1\Coursework 1 Portfolio Exercises\Week 3\Kinect Task 3\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 1\Coursework 1 Portfolio Exercises\Week 3\Kinect Task 3\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Documents\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Documents\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Documents\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Documents\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+G:\USB Backup\University 2016\Interface Programming (Kinect)\Coursework\Coursework 2\Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect Media App\ControlsBasics-WPF\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect Media App\MediaApp\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\MediaApp\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Kinect CW2\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\.Debug\KinectInteraction180_32.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\.Debug\KinectInteraction180_64.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\MediaApp\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Logi\Desktop\Louis Gilmartin - 22119752\Kinect Media App\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

@@ -1,0 +1,187 @@
+﻿<Window x:Class="MediaApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaApplication"
+        
+        Name="MediaAppWindow"
+        Title="Kinect Media Manager"
+        Closing="WindowClosing"
+        mc:Ignorable="d" MinWidth="500"
+        MinHeight="700"
+        FontFamily="Segoe UI" Height="1039" Width="1400">
+    
+<Window.Resources>
+
+    </Window.Resources>
+
+    <!-- Grid -->
+    <Grid MouseWheel="Grid_MouseWheel">
+
+        <!-- Grid definitions -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="790*" />
+            <ColumnDefinition Width="388*" />
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="890*" />
+        </Grid.RowDefinitions>
+
+        <!-- Grid margin -->
+        <Grid Margin="10,0,10,40" Grid.ColumnSpan="2">
+            <k:KinectUserViewer k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion}" Height="100" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <k:KinectSensorChooserUI HorizontalAlignment="Center" VerticalAlignment="Top" Name="sensorChooserUi" Height="60" Width="80"/>
+        </Grid>
+
+
+        <!-- Kinect region -->
+        <k:KinectRegion Grid.Row="1" x:Name="kinectRegion" Margin="0,-40,0,0" Grid.ColumnSpan="2">
+            
+            <Grid x:Name="kinectRegionGrid" Margin="10,20,10,20" Height="730">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="170" />
+                </Grid.RowDefinitions>
+
+                <!-- Scroll view for the main wrap panel -->
+                <k:KinectScrollViewer Name="scrollViewerMainPanel" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Disabled" Margin="107,-100,969,370" >
+                    <!-- Main wrap panel (Displays the main controls, add file etc) -->
+                    <WrapPanel VerticalAlignment="Center" x:Name="wrapPanelMainPanel" Orientation="Vertical" k:KinectTileButton.Click="KinectMainButtonClick" Margin="4,0,0,0" Width="287" Height="280" >
+                        <!-- Items for design layout (will be replaced at runtime) -->
+                        <k:KinectTileButton Label="1" Width="213" Height="210" />
+                        <k:KinectTileButton Label="2" Height="213" />
+                        <k:KinectTileButton Label="3"/>
+                        <k:KinectTileButton Label="4"/>
+                    </WrapPanel>
+                </k:KinectScrollViewer>
+
+                <!-- Scroll view for the browser wrap panel -->
+                <k:KinectScrollViewer Name="scrollViewerBrowserPanel" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled" Margin="0,80,0,-102" Grid.Row="1">
+                    <!-- Browser wrap panel (Displays the category folders and content folder -->
+                    <WrapPanel VerticalAlignment="Center" x:Name="wrapPanelBrowserPanel" Orientation="Vertical" k:KinectTileButton.Click="KinectBrowserButtonClick">
+                        <!-- Items for design layout (will be replaced at runtime) -->
+                        <k:KinectTileButton Label="1"/>
+                        <k:KinectTileButton Label="2"/>
+                        <k:KinectTileButton Label="3"/>
+                        <k:KinectTileButton Label="4"/>
+                        <k:KinectTileButton Label="5"/>
+                        <k:KinectTileButton Label="6"/>
+                    </WrapPanel>
+                </k:KinectScrollViewer>
+
+                <!-- Controls wrap panel (Displays the media controls, play, pause stop etc) -->
+                <WrapPanel VerticalAlignment="Center" x:Name="wrapPanelControlPanel" Orientation="Vertical" Margin="550,470,87,-50" k:KinectTileButton.Click="KinectControlButtonClick">
+                    <!-- Items for design layout (will be replaced at runtime) -->
+                    <k:KinectTileButton Label="1" />
+                    <k:KinectTileButton Label="2" />
+                    <k:KinectTileButton Label="3" />
+                    <k:KinectTileButton Label="4" />
+                </WrapPanel>
+
+
+
+
+
+
+
+                <!-- This is the media window and background -->
+                <Border Grid.Column="0" Margin="450,-655,90,300" Grid.Row="1">
+                    <!-- Media element for playing the media files -->
+                    <MediaElement 
+                            Name="VideoControl" Margin="0,0,0,0" Grid.ColumnSpan="2" LoadedBehavior="Manual" Grid.RowSpan="2"  Width="800">
+                    </MediaElement>
+
+                    <!-- Background image -->
+                    <Border.Background>
+                        <ImageBrush ImageSource="Images\MediaBackground.jpg" Stretch="Fill"/>
+                    </Border.Background>
+                </Border>
+
+
+
+                
+                
+
+                <!-- *************************************************************** Invisible Scroll Views For Extra Media Controls ********************************************  -->
+                <!-- Scroll view for the media window Skip (Invisible) -->
+                <k:KinectScrollViewer Name="scrollViewerMediaSkip" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Disabled" Margin="450,-200,85,297" Grid.Row="1" Opacity="0">
+                    <WrapPanel VerticalAlignment="Center" x:Name="wrapPanelMediaSkip" Orientation="Vertical" Height="250">
+                        <!-- Items for design layout (will be replaced at runtime) -->
+                        <k:KinectTileButton Label="1" />
+                        <k:KinectTileButton Label="2" />
+                        <k:KinectTileButton Label="3" />
+                        <k:KinectTileButton Label="4" />
+                        <k:KinectTileButton Label="5" />
+                    </WrapPanel>
+                </k:KinectScrollViewer>
+
+                <!-- Scroll view for the media window Volume (Invisible) -->
+                <k:KinectScrollViewer Name="scrollViewerMediaVolume" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Visible" Margin="450,-655,600,397" Grid.Row="1" Opacity="0">
+                    <WrapPanel VerticalAlignment="Center" x:Name="wrapPanelMediaVolume" Orientation="Vertical" Height="1250">
+                        <!-- Items for design layout (will be replaced at runtime) -->
+                        <k:KinectTileButton Label="1" />
+                        <k:KinectTileButton Label="2" />
+                        <k:KinectTileButton Label="3" />
+                        <k:KinectTileButton Label="4" />
+                        <k:KinectTileButton Label="5" />
+                    </WrapPanel>
+                </k:KinectScrollViewer>
+                <!-- ************************************************************************************************************************************************************  -->
+
+                <!-- Canvas for the kinect video output -->
+                <Canvas x:Name="canDraw" Height="480" Width="640" Margin="445,-630,69,420" Grid.ColumnSpan="2" Grid.Row="1">
+                    <Image x:Name="imgVideo" Height="480" Width="640" Margin="0,0,0,0" VerticalAlignment="Top"  />
+                </Canvas>
+
+                <!-- Image element for displaying the Kinect logo -->
+                <Image HorizontalAlignment="Right" Source="Images\Logo.png" Stretch="None" Margin="0,-170,10,680" Grid.ColumnSpan="2" Width="487" />
+
+                <!-- Label for the Kinect gesture command display -->
+                <Label x:Name="lblCommandDisplay" Margin="1070,-120,90,650" FontSize="14" />
+
+                <!-- Progress bar for the media volume display -->
+                <ProgressBar Name="mediaVolumeBar" Width="150" Height="30" Grid.ColumnSpan="2" Margin="462,-190,800,-530" Maximum="1" Value="{Binding ElementName=VideoControl, Path=Volume}" />
+
+                <!-- Label for the media file name display -->
+                <Label x:Name="lblMediaFileName" Margin="640,425,310,90" HorizontalContentAlignment="Center"  FontSize="20" FontWeight="Bold"/>
+
+                <!-- Label for the media duration display -->
+                <Label x:Name="lblMediaDuration" Margin="1110,425,90,90" HorizontalContentAlignment="Center" FontSize="20"/>
+
+                <!-- Slider bar for the media duration display and control -->
+                <Slider Name="mediaSliderProgress" Margin="450,405,90,130" Thumb.DragStarted="mediaSlider_DragStarted"  Thumb.DragCompleted="mediaSlider_DragCompleted" />
+
+                <!-- This is the listview and listview background -->
+                <Border Name="PlayListBackgroundImage" Grid.Column="0" Margin="117,-355,978,300" Grid.Row="1">
+                    
+                    <!-- Background image for the listview -->
+                    <Border.Background>
+                        <ImageBrush ImageSource="Images\List_Background.jpg" Stretch="Fill"/>
+                    </Border.Background>
+                </Border>
+
+                <!-- Listview for displaying the play list -->
+                <ListView Name="listBoxPlayList" ItemsSource="{Binding}" Margin="120,210,981,135" FontSize="16" Foreground="Purple" FontWeight="Bold" Background="Transparent" BorderBrush="Transparent"> </ListView>
+
+
+
+
+                <!-- Controls wrap panel (Displays the media controls, play, pause stop etc) -->
+                <WrapPanel VerticalAlignment="Center" x:Name="wrapPanelDebugPanel" Orientation="Vertical" Margin="1280,-733,0,-50" k:KinectTileButton.Click="KinectDebugButtonClick">
+                    <!-- Items for design layout (will be replaced at runtime) -->
+                    <k:KinectTileButton Label="1" Width="75" Height="75" />
+                </WrapPanel>
+
+
+
+
+            </Grid>
+            
+        </k:KinectRegion>
+
+    </Grid>
+</Window>
