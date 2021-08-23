@@ -2,4 +2,4 @@
 Media Player App for Windows Using Microsoft Kinect
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Basic Kinect Media Player](https://img.youtube.com/vi/FEMRyq-NHwo/0.jpg)](https://www.youtube.com/watch?v=FEMRyq-NHwo "Basic Kinect Media Player")
